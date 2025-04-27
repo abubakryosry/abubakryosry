@@ -1,7 +1,7 @@
 # Hi 👋 I'm Abubakr Yosry
 
 ## About Me
-Frontend Developer with 2 years of experience in building high-performance, responsive web applications using React.js, JavaScript, and Tailwind CSS. Adept at SEO optimization, UI/UX design, and API integration, with a proven ability to troubleshoot complex issues and improve website speed. Passionate about delivering quality results in agile environments while continuously learning and adapting. Fluent in Arabic & English.
+Frontend Developer with over 2 years of experience in building high-performance websites and user interfaces., responsive web applications using React.js, JavaScript, and Tailwind CSS. Adept at SEO optimization, UI/UX design, and API integration, with a proven ability to troubleshoot complex issues and improve website speed. Passionate about delivering quality results in agile environments while continuously learning and adapting. Fluent in Arabic & English.
 
 ## Education
 **Alexandria University - Egypt**  
