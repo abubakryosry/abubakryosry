@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Frontend Developer with **3 years of experience** in building modern, high-performance, and responsive web applications using **React.js, Next.js, JavaScript, and Tailwind CSS**.
+Frontend Developer with **+3 years of experience** in building modern, high-performance, and responsive web applications using **React.js, Next.js, JavaScript, and Tailwind CSS**.
 Strong focus on **clean UI, smooth UX, performance optimization, and SEO best practices**.
 I enjoy turning designs into scalable, user-friendly interfaces and continuously improving my craft.
 
