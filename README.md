@@ -1,26 +1,44 @@
 # Hi 👋 I'm Abubakr Yosry
 
-## About Me
-Frontend Developer with over 2 years of experience in building high-performance websites and user interfaces., responsive web applications using React.js, JavaScript, and Tailwind CSS. Adept at SEO optimization, UI/UX design, and API integration, with a proven ability to troubleshoot complex issues and improve website speed. Passionate about delivering quality results in agile environments while continuously learning and adapting. Fluent in Arabic & English.
+## 👨‍💻 About Me
 
-## Education
-**Alexandria University - Egypt**  
-Bachelor’s degree in Industrial Engineering  
-_2016 – 2022 | Mansoura, Egypt_
+Frontend Developer with **3 years of experience** in building modern, high-performance, and responsive web applications using **React.js, Next.js, JavaScript, and Tailwind CSS**.
+Strong focus on **clean UI, smooth UX, performance optimization, and SEO best practices**.
+I enjoy turning designs into scalable, user-friendly interfaces and continuously improving my craft.
 
-## Skills
-- Languages: HTML5, CSS3 (Sass), JavaScript (ES6+)
+📍 Abu Dhabi, United Arab Emirates
+🌍 Fluent in Arabic & English
 
-- Frameworks & Libraries: React.js, Redux, jQuery, Bootstrap, Tailwind CSS
+---
 
-- Developer Tools: Git, Webpack, Vite
+## 🛠️ Tech Stack
 
-- Version Control: Git, GitHub, GitLab
+**Languages**
+HTML5 · CSS3 (Sass) · JavaScript (ES6+)
 
-- Other Tools: Adobe Photoshop, Adobe Illustrator, Figma, MS Office
+**Frameworks & Libraries**
+React.js · Next.js · Redux
+Tailwind CSS · Bootstrap · jQuery
 
-<!-- Add more skills if you want -->
+**Tools**
+Git · Webpack · Vite
+GitHub · GitLab
 
-## 📫 How to reach me:
-- GitHub: [abubakryosry](https://github.com/abubakryosry)
-- LinkedIn: [(https://www.linkedin.com/in/abubakr-yosry-abubakr-03ba21202/]
+**Design**
+Figma · Adobe Photoshop · Adobe Illustrator
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering – Industrial Engineering**
+Alexandria University, Egypt
+*2016 – 2022*
+
+---
+
+## 📫 Get in Touch
+
+* **GitHub:** [https://github.com/abubakryosry](https://github.com/abubakryosry)
+* **LinkedIn:** [https://www.linkedin.com/in/abubakr-yosry-abubakr-03ba21202/](https://www.linkedin.com/in/abubakr-yosry-abubakr-03ba21202/)
+* **Email:** [abubakryosryabubakr@gmail.com](mailto:abubakryosryabubakr@gmail.com)
