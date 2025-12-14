@@ -7,7 +7,6 @@ Strong focus on **clean UI, smooth UX, performance optimization, and SEO best pr
 I enjoy turning designs into scalable, user-friendly interfaces and continuously improving my craft.
 
 📍 Abu Dhabi, United Arab Emirates
-🌍 Fluent in Arabic & English
 
 ---
 
